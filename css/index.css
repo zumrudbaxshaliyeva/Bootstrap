@@ -1,0 +1,292 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header img{
+    width: 142.57px;
+    height:24.12px;
+}
+.title{
+    color:#20484F;
+    font-size: 24px;
+    font-weight:400;
+    line-height:36px;
+}
+.btn-blue{
+    background-color: #B8E4DA;
+    color: #20484F;
+}
+.navbar{
+    background-color: #20484F;
+}
+.hero img{
+    height:700px;
+} 
+.hero p{
+font-size:18px;
+line-height :27px;
+color:#20484F;
+font-weight: 400;
+}
+.hero h2{
+    color: #072125;
+    font-size:40px;
+    font-weight: 700;
+    font-family: Plus Jakarta Sans;
+    line-height:50.4px;
+}
+.left{
+    height: 700px;
+}
+body{
+    overflow-x: hidden;
+}
+.btn-green{
+    background: #20484F;
+    color: white;
+}
+.divider{
+    width: 100%;
+    height: 51px;
+}
+.divider img{
+    width: 100%;
+    height: 51px;
+    background-size: cover;
+}
+.features-side{
+    background:#20484F;
+    height:493px ;
+}
+.metrics-block{
+    background-color:#20484F;
+    color: white;
+    width: 280px;
+    /* height: 329px; */
+    border-radius: 24px;
+}
+.btn-sign{
+    background-color: #20484F;
+    color: #fff;
+}
+.CTAs{
+   text-align: center;
+}
+.metrics h2{
+    font-size:63px;
+    font-family: Plus Jakarta Sans;
+    font-weight:700;
+    line-height: 76.8px;
+}
+.metrics h5{
+font-size: 18px;
+line-height: 22.68px;
+font-weight: 700;
+font-family: Plus Jakarta Sans;
+}
+.metrics p{
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+font-family: Plus Jakarta Sans;
+}
+.metrics h3{
+font-size:32px;
+font-weight: 700;
+line-height: 40.32px;
+font-family: Plus Jakarta Sans;
+}
+.features h3{
+    font-size: 32px;
+    line-height: 40.32px;
+    font-weight: 700;
+    font-family: Plus Jakarta Sans;
+}
+.features p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    font-family: Plus Jakarta Sans;
+}
+.features h5{
+    font-size:18px ;
+    line-height:22.68px ;
+    font-weight:700;
+    font-family: Plus Jakarta Sans;
+}
+.tetimonsial h3{
+font-size: 32px;
+line-height:40.32px;
+font-weight: 700;
+font-family: Plus Jakarta Sans;
+}
+.tetimonsial h5{
+    font-size: 18px;
+    line-height: 22.68px;
+    font-weight: 700;
+    font-family: Plus Jakarta Sans;
+}
+.tetimonsial p{
+   font-size: 16px;
+   font-weight: 400; 
+   line-height: 24px;
+   font-family: Plus Jakarta Sans;
+}
+.CTAs h5{
+font-size: 18px;
+font-weight: 700;
+line-height:22.68px;
+}
+.CTAs h1{
+    font-size:50px ;
+    line-height: 60px;
+    font-weight:700 ;
+}
+.images h2{
+font-size:50.4px ;
+line-height:40px ;
+font-weight:700 ;
+}
+.images p{
+    font-size:16px ;
+    line-height:24px ;
+    font-weight:400 ;
+}
+.page-headers h2{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50.4px;
+}
+.page-headers p{
+    font-size: 18px;
+    font-weight:400 ;
+    line-height: 27px;
+}
+.team-p{
+font-family: Plus Jakarta Sans;
+font-size: 16px !important;
+font-weight: 400!important;
+line-height: 24px!important;
+letter-spacing: 0em!important;
+text-align: center!important;
+}
+.team h2{
+font-family: Plus Jakarta Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: center;
+}
+.team h4{
+font-family: Plus Jakarta Sans;
+font-size: 24px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+}
+.team p{
+font-family: Plus Jakarta Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+}
+.team img{
+    width: 250px;
+height: 250px;
+}
+.box{
+    background-color:#FAFAFA;
+    border-radius: 24px;
+}
+.box2{
+    background: #DCF2ED;
+    border-radius: 24px;
+}
+.pricing h2{
+font-family: Plus Jakarta Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: center;
+}
+.pricing p{
+font-family: Plus Jakarta Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.pricing h5{
+font-family: Plus Jakarta Sans;
+font-size: 18px;
+font-weight: 700;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.pricing h1{
+font-family: Plus Jakarta Sans;
+font-size: 50px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.footer{
+    background-color: #072125;
+}
+.footer h3{
+    font-family: Plus Jakarta Sans;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF; 
+}
+.footer h5{
+    font-family: Plus Jakarta Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left; 
+    color: #fff; 
+}
+.footer p{
+font-family: Plus Jakarta Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #DCF2ED;
+}
+.footer-end{
+    border-top:1px solid #B8E4DA; ;
+}
+.pricing input{
+    color:#20484F !important;
+    background-color:#DCF2ED !important;
+    border: none !important;
+}
+.pricing label{
+    font-family: Plus Jakarta Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+color: #072125;
+
+}
